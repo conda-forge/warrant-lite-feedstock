@@ -27,7 +27,7 @@ requirements:
 
 test:
   imports:
-    - warrant_lite 
+    - warrant_lite
 
 about:
   home: https://github.com/capless/warrant-lite
